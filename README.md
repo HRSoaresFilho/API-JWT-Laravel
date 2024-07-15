@@ -25,8 +25,8 @@ Antes de começar, você precisa ter instalado:
 Clone o repositório para sua máquina local:
 
 ```
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
+git clone https://github.com/HRSoaresFilho/API-JWT-Laravel seu-repositorio
+cd seu-repositorio
 ```
 
 ### 2. Instalar Dependências
